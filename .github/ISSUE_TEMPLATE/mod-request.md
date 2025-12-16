@@ -1,20 +1,17 @@
 ---
 name: Mod request
-about: Suggest an idea for this project
-title: ''
+about: Suggest a mod for this project
+title: Full mod name [MOD REQUEST]
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Why do you want to include the mod? Which features from it interest you the most?**
+<response>
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**How does the mod fit into Untapped Harmony?**
+<response>
 
 **Additional context**
 Add any other context or screenshots about the feature request here.

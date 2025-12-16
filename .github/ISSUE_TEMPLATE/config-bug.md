@@ -1,7 +1,7 @@
 ---
 name: Config Bug
 about: Create a report to help us improve
-title: Bug description [Config Bug]
+title: Bug description [CONFIG BUG]
 labels: ''
 assignees: ''
 
