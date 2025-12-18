@@ -125,7 +125,15 @@
 	},
 	"enableTweaks": true,
 	"additionalTools": [],
-	"additionalMeleeWeapons": [],
+	"additionalMeleeWeapons": [
+		"minecraft:netherite_spear",
+		"minecraft:diamond_spear",
+		"minecraft:golden_spear",
+		"minecraft:iron_spear",
+		"minecraft:copper_spear",
+		"minecraft:stone_spear",
+		"minecraft:wooden_spear"
+	],
 	"additionalRangedWeapons": [],
 	"additionalThrowables": [],
 	"additionalUsableItems": [],
