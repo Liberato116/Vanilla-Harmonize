@@ -3,6 +3,8 @@
 </div>
 
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1405001?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/untapped-harmony)
+[![Release Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Liberato116/Untapped-Harmony/main/.github/release-progress.json)](https://github.com/Liberato116/Untapped-Harmony/wiki/Latest-MC-Release-Mod-list-progress)
+
 
 # Untapped Harmony
 ***Vanilla gameplay, intact — refined through UX, GUI, and visual polish.***
