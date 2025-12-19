@@ -2,6 +2,8 @@
  <img width="300" height="300" alt="Untapped Harmony" src="https://github.com/user-attachments/assets/b1381866-761d-4f25-8165-81de59c526e5" />
 </div>
 
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1405001?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/untapped-harmony)
+
 # Untapped Harmony
 ***Vanilla gameplay, intact — refined through UX, GUI, and visual polish.***
 
