@@ -22,7 +22,6 @@
 
 | Mod                                                                                           | Status  | Priority | Comment                                                             |
 | --------------------------------------------------------------------------------------------- | :-----: | :------: | ------------------------------------------------------------------- |
-|                                                                                               |         |          |                                                                     |
 | [Debugify](https://modrinth.com/mod/debugify)                                                 |   ⚠️    |    ⬇️    | Can't go back from world creation screen                            |
 | [Chat Heads](https://modrinth.com/mod/chat-heads)                                             |    ✅    |    ⬇️    | ~~Bootup crash~~                                                    |
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves)                                      |    ✅    |    ⬇️    | ~~Bootup Crash~~                                                    |
