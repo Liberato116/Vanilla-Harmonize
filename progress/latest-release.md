@@ -18,6 +18,7 @@
 | 📌 Medium | Expected but not essential features.           |
 | ⬇️ Low    | Low impact or minimal cosmetic mods.           |
 
+### Mod List
 
 | Mod                                                                                           | Status  | Priority | Comment                                                             |
 | --------------------------------------------------------------------------------------------- | :-----: | :------: | ------------------------------------------------------------------- |
