@@ -37,7 +37,7 @@
 | [Real Arrow Tip](https://modrinth.com/mod/real-arrow-tip)                                     |    ✅    |    ⬇️    | —                                                                   |
 | [Spawn Animations](https://modrinth.com/mod/spawn-animations)                                 |    ✅    |    ⬇️    |                                                                     |
 | [Visuality](https://modrinth.com/mod/visuality)                                               |    ✅    |    ⬇️    | Optional visuals                                                    |
-| [Wavey Capes](https://modrinth.com/mod/wavey-capes)                                           |    ✅    |    ⭐    | —                                                                   |
+| [Wavey Capes](https://modrinth.com/mod/wavey-capes)                                           |    ✅    |    ⬇️    | —                                                                   |
 | [AmbientSounds](https://modrinth.com/mod/ambientsounds)                                       |    ✅    |    ⭐     | —                                                                   |
 | [Auto HUD](https://modrinth.com/mod/autohud)                                                  |    ✅    |    ⭐     | Key HUD mod — update needed                                         |
 | [Capes](https://modrinth.com/mod/capes)                                                       |    ✅    |    ⭐     | —                                                                   |
