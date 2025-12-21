@@ -74,7 +74,7 @@
 | [Controlling](https://modrinth.com/mod/controlling)                                           |    ✅    |    🔥    | Strong priority — key UX                                            |
 | [More Mouse Tweaks](https://modrinth.com/mod/moremousetweaks)                                 |   ✅🐛   |    ⬇️    | Config Broken                                                       |
 | [Cursors Extended](https://modrinth.com/mod/minecraft-cursor)                                 |   ✅🐛   |    📌    | Re-entering config page crashes                                     |
-| [Immersive Hotbar](https://modrinth.com/mod/immersive-hotbar)                                 |    ✨    |    ⬇️    | Nice to have                                                        |
+| [Immersive Hotbar](https://modrinth.com/mod/immersive-hotbar)                                 |    ✨    |    ⭐    | Nice to have                                                        |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)                      |    ❌    |    —     | Sodium updated its UI                                               |
 | [facebar](https://modrinth.com/mod/facebar)                                                   |    ❌    |    ⬇️    | Dropped in favor of Locator Heads                                   |
 | [FastChest](https://modrinth.com/mod/fastchest)                                               |    ❌    |    ⬇️    | Alternative to BBE                                                  |
