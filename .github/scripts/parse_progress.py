@@ -59,11 +59,14 @@ for mod, status, priority, *_ in rows:
 percent = 0
 if total_starred:
     percent = round((completed_starred / total_starred) * 100)
+    
+from datetime import datetime
+ts = datetime.utcnow().strftime("%H:%M UTC")
 
 badge = {
     "schemaVersion": 1,
     "label": "Release Progress",
-    "message": f"{completed_starred}/{total_starred} ({percent}%)",
+    "message": f"{completed_starred}/{total_starred} ({percent}%) · {ts}",
     "color": "#9acd32"  # yellow-green midpoint
 }
 
