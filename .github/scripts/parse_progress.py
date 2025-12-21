@@ -59,6 +59,18 @@ for mod, status, priority, *_ in rows:
 percent = 0
 if total_starred:
     percent = round((completed_starred / total_starred) * 100)
+    
+#Color selection    
+if percent < 25:
+    color = "#e05d44"        # red
+elif percent < 41:
+    color = "#fe7d37"        # dark orange
+elif percent < 70:
+    color = "#dfb317"        # orange
+elif percent < 90:
+    color = "#9acd32"        # yellow-green
+else:
+    color = "#4cbb17"        # bright green
 
 #Debug timestamp
 from datetime import datetime
@@ -68,7 +80,7 @@ badge = {
     "schemaVersion": 1,
     "label": "Release Progress",
     "message": f"{completed_starred}/{total_starred} ({percent}%)",
-    "color": "#9acd32"  # yellow-green midpoint
+    "color": color  # Selection from above
 }
 
 OUTPUT.write_text(json.dumps(badge, indent=2), encoding="utf-8")
