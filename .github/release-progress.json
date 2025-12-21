@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "1.21.11 readiness",
-  "message": "75%",
-  "color": "#7FFF00"
+  "label": "Release Progress",
+  "message": "15/20 (75%)",
+  "color": "#9acd32"
 }
