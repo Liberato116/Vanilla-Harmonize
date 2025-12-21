@@ -5,7 +5,7 @@
 # Untapped Harmony
 [![Modrinth Status](https://img.shields.io/badge/Modrinth-Under%20Review-orange?logo=modrinth)](https://modrinth.com/modpack/untapped-harmony)
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1405001?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/untapped-harmony)
-[![Release Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Liberato116/Untapped-Harmony/main/.github/release-progress.json)](https://github.com/Liberato116/Untapped-Harmony/wiki/Latest-MC-Release-Mod-list-progress)
+[![Release Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Liberato116/Untapped-Harmony/main/.github/release-progress.json&cacheSeconds=120)](https://github.com/Liberato116/Untapped-Harmony/wiki/Latest-MC-Release-Mod-list-progress)
 
 ***Vanilla gameplay, intact — refined through UX, GUI, and visual polish.***
 
