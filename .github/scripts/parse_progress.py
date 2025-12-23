@@ -78,7 +78,7 @@ ts = datetime.utcnow().strftime("%H:%M UTC")
 
 badge = {
     "schemaVersion": 1,
-    "label": "Release Progress",
+    "label": "1.21.11 Release Progress",
     "message": f"{completed_starred}/{total_starred} ({percent}%)",
     "color": color  # Selection from above
 }
