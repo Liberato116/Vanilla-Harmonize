@@ -18,7 +18,7 @@
 | ⬇️ Low    | Low impact or minimal cosmetic mods.           |
 
 ### Mod List
-
+[![Release Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Liberato116/Untapped-Harmony/main/.github/release-progress.json&cacheSeconds=120)](https://github.com/Liberato116/Untapped-Harmony/wiki/Latest-MC-Release-Mod-list-progress)
 
 | Mod                                                                                                                                                            | Status  | Priority | Comment                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: | :------: | ------------------------------------------------------------------- |
