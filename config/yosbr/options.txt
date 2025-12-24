@@ -141,10 +141,10 @@ key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
 key_key.clear-despawn-reworked:key.keyboard.unknown
 key_key.clickthrough.toggle:key.keyboard.f9
-key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.b
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
-key_key.do_a_barrel_roll.pitch_up:key.keyboard.unknown
+key_key.do_a_barrel_roll.pitch_up:key.keyboard.s
 key_key.do_a_barrel_roll.pitch_down:key.keyboard.unknown
 key_key.do_a_barrel_roll.yaw_left:key.keyboard.a
 key_key.do_a_barrel_roll.yaw_right:key.keyboard.d
