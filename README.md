@@ -32,7 +32,7 @@ For a comprehensive and commented list of config changes refer to the [Config Ch
 Full credit to the [Simply Optimized](https://modrinth.com/modpack/sop) project and its contributors for Harmony's performance. This pack expands upon its foundation with a strong focus on interface, interaction, and visual harmony.
 
 <details>
-<summary>Core mod list:</summary>
+<summary>Main mod list:</summary>
 
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds)                                                                                                        
 - [Auto HUD](https://modrinth.com/mod/autohud)                                                                                                                   
