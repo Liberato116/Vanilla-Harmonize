@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "pigcart.particlerain.config.gui.ConfigScreen": true,
+    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true,
+    "net.diebuddies.physics.settings.WeatherSettingsScreen": true
+  },
+  "hideBackground": {}
+}

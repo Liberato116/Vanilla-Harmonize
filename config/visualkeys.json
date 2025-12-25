@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "save_enabled_state": false,
+  "keyboard_textured": true,
+  "hud_render_options": {
+    "keyboard_x": 0,
+    "keyboard_y": 0,
+    "keyboard_scale": 0.25,
+    "function_visible": true,
+    "mid_visible": true,
+    "numpad_visible": true
+  }
+}
